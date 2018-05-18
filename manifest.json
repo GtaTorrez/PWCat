@@ -1,6 +1,6 @@
 
 { 
-  "nombre": "Progressive Web Cat", 
+  "name": "Progressive Web Cat", 
   "short_name": "PWCat", 
   "description": "A funny cat image generator",  
   "icons": [{
