@@ -10,8 +10,8 @@
         "/PWCat/favicon.ico",
         "/PWCat/index.html",
         "/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
-        "/PWCat/main.7301e90814c715167f3f.bundle.js",
-        "/PWCat/polyfills.3b62166b1130a1e3b571.bundle.js",
+        "/PWCat/main.50764c82a8b5f7974170.bundle.js",
+        "/PWCat/polyfills.fa62713060e7012f88ea.bundle.js",
         "/PWCat/styles.92765c17bbb3b78d89ac.bundle.css"
       ],
       "patterns": []
@@ -21,43 +21,25 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/PWCat/assets/icon128.png",
         "/PWCat/assets/Icon157.png",
         "/PWCat/assets/Icon256.png",
-        "/PWCat/assets/Icon512.png",
-        "/PWCat/assets/icon128.png"
+        "/PWCat/assets/Icon512.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PWCat/assets/Icon157.png": "24d1c12824b1d4663318ba62ef3395c3f01d6a65",
-    "/PWCat/assets/Icon256.png": "f36fa4f5ed9d05158a6a3ff4ce3b052d31008625",
-    "/PWCat/assets/Icon512.png": "61ad8f1754dea689d34e88c6b33c199c78aa6982",
-    "/PWCat/assets/icon128.png": "7fc96f570f4db338ca288bfc80c89eeb51d4c548",
-    "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat/index.html": "7749fb266e7661fca7d31cc49cae76ef3e550120",
     "/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/PWCat/main.7301e90814c715167f3f.bundle.js": "151db758763843958ca25a55a731f423e5b88883",
-    "/PWCat/polyfills.3b62166b1130a1e3b571.bundle.js": "12c1dead6505867b7219c4eb6ef8ecc0e5ca51be",
-    "/PWCat/styles.92765c17bbb3b78d89ac.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c"
-  },
-  "navigationUrls": [
-    {
-      "positive": true,
-      "regex": "^\\/.*$"
-    },
-    {
-      "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
-    },
-    {
-      "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
-    },
-    {
-      "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
-    }
-  ]
+    "/PWCat/assets/icon128.png": "7fc96f570f4db338ca288bfc80c89eeb51d4c548",
+    "/PWCat/main.50764c82a8b5f7974170.bundle.js": "6eecba1f961079a9aa1d6088ab4d298064875e21",
+    "/PWCat/assets/Icon157.png": "24d1c12824b1d4663318ba62ef3395c3f01d6a65",
+    "/PWCat/polyfills.fa62713060e7012f88ea.bundle.js": "086b38be64925fb65d363f0163199c5b9ce0c54b",
+    "/PWCat/assets/Icon256.png": "f36fa4f5ed9d05158a6a3ff4ce3b052d31008625",
+    "/PWCat/styles.92765c17bbb3b78d89ac.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
+    "/PWCat/assets/Icon512.png": "61ad8f1754dea689d34e88c6b33c199c78aa6982",
+    "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PWCat/index.html": "bc38de10450e3f404ff1e5100574832c0206d90a"
+  }
 }
